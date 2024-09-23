@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638626629681895216
-    m_Hash: 3219194938
+      ticks: 638626653173438824
+    m_Hash: 3190872083
   m_LockFileStatus:
     m_FilePath: C:/Users/croha/GitRepo/UVU_DAGV1400_Fall_2024/CollidersAndRigidbodyLab/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638626629684468083
-    m_Hash: 3299463117
+      ticks: 638626653173448812
+    m_Hash: 854151047
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
